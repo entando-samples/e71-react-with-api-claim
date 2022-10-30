@@ -1,5 +1,5 @@
 # Configurable Widget
-The project contains an MFE (simple-mfe) with associated (simple-mfe-config) for Entando 7.1
+The project contains an MFE (simple-mfe) with a simple node service (simple-node-ms) connected via an API claim
 
 ## Prerequisites
 1. Docker account
