@@ -1,4 +1,4 @@
-# Configurable Widget
+# React MFE with Node MS
 The project contains an MFE (simple-mfe) with a simple node service (simple-node-ms) connected via an API claim
 
 ## Prerequisites
