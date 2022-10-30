@@ -17,7 +17,14 @@
             "titles": {
                 "en": "Simple MFE with API Claim",
                 "it": "Simple MFE with API Claim"
-            }
+            },
+            "apiClaims": [
+                {
+                    "name": "simple-node-api",
+                    "type": "internal",
+                    "serviceName": "simple-node-ms"
+                }
+            ]
         }
     ],
     "svc": [],
