@@ -1,5 +1,11 @@
 {
-    "microservices": [],
+    "microservices": [
+        {
+            "name": "simple-node-ms",
+            "stack": "node",
+            "healthCheckPath": "/api/health"
+        }
+    ],
     "microfrontends": [
         {
             "name": "simple-mfe",
@@ -11,8 +17,8 @@
             "titles": {
                 "en": "Simple MFE with API Claim",
                 "it": "Simple MFE with API Claim"
-            },
-        },
+            }
+        }
     ],
     "svc": [],
     "name": "e71-react-with-api-claim",
